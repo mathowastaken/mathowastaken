@@ -1,16 +1,18 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**mathowastaken/mathowastaken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Matȟó
+My profiles README
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About
+- I'm 22 years old
+- I like One Piece, self hosting, IT and coding
+- Currently learning game development alongside learning Rust
+
+## Languages
+<img src="https://skillicons.dev/icons?i=rust" alt="Rust" title="Rust">
+
+<img src="https://skillicons.dev/icons?i=go" alt="Go" title="Go">
+
+<img src="https://skillicons.dev/icons?i=lua" alt="Lua" title="Lua">
