@@ -1,7 +1,7 @@
 ## About
 - I'm 22 years old  
 - I like One Piece, self hosting, IT and coding  
-- Currently learning game development alongside learning Rust
+- Currently learning game development alongside Rust
 
 ## Languages  
 <p>
